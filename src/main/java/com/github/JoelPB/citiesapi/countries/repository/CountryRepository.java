@@ -1,4 +1,4 @@
-package com.github.JoelPB.citiesapi.repository;
+package com.github.JoelPB.citiesapi.countries.repository;
 
 import com.github.JoelPB.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;

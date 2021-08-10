@@ -1,7 +1,7 @@
-package com.github.JoelPB.citiesapi;
+package com.github.JoelPB.citiesapi.countries;
 
 import com.github.JoelPB.citiesapi.countries.Country;
-import com.github.JoelPB.citiesapi.repository.CountryRepository;
+import com.github.JoelPB.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
