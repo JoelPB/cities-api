@@ -1,4 +1,4 @@
-package com.github.JoelPB.citiesapi.staties;
+package com.github.JoelPB.citiesapi.states;
 
 
 import com.github.JoelPB.citiesapi.countries.Country;
